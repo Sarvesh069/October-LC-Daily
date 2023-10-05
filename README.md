@@ -21,3 +21,8 @@ Problem Name : [1512 Number of Good Pairs](https://leetcode.com/problems/number-
 Problem Name : [706. Design Hashmap](https://leetcode.com/problems/design-hashmap/?envType=daily-question&envId=2023-10-04)
 
 [Find my Solution here](https://leetcode.com/problems/design-hashmap/submissions/1066542045/?envType=daily-question&envId=2023-10-04)
+
+# Day5 - 5th Oct 2023
+Problem Name : [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/?envType=daily-question&envId=2023-10-05)
+
+[Find my Solution here](https://leetcode.com/problems/majority-element-ii/submissions/1067643262/?envType=daily-question&envId=2023-10-05)
