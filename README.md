@@ -26,3 +26,8 @@ Problem Name : [706. Design Hashmap](https://leetcode.com/problems/design-hashma
 Problem Name : [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/?envType=daily-question&envId=2023-10-05)
 
 [Find my Solution here](https://leetcode.com/problems/majority-element-ii/submissions/1067643262/?envType=daily-question&envId=2023-10-05)
+
+# Day6 - 6th Oct 2023
+Problem Name : [343. Integer Break](https://leetcode.com/problems/integer-break/?envType=daily-question&envId=2023-10-06)
+
+[Find my Solution here](https://leetcode.com/problems/integer-break/submissions/1068798584/?envType=daily-question&envId=2023-10-06)
