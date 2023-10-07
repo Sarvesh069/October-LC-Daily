@@ -31,3 +31,8 @@ Problem Name : [229. Majority Element II](https://leetcode.com/problems/majority
 Problem Name : [343. Integer Break](https://leetcode.com/problems/integer-break/?envType=daily-question&envId=2023-10-06)
 
 [Find my Solution here](https://leetcode.com/problems/integer-break/submissions/1068798584/?envType=daily-question&envId=2023-10-06)
+
+# Day7 - 7th Oct 2023
+Problem Name : [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/?envType=daily-question&envId=2023-10-07)
+
+[Find my Solution here](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/submissions/1069517568/?envType=daily-question&envId=2023-10-07)
