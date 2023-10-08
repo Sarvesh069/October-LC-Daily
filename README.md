@@ -36,3 +36,8 @@ Problem Name : [343. Integer Break](https://leetcode.com/problems/integer-break/
 Problem Name : [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/?envType=daily-question&envId=2023-10-07)
 
 [Find my Solution here](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/submissions/1069517568/?envType=daily-question&envId=2023-10-07)
+
+# Day8 - 8th Oct 2023
+Problem Name : [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/?envType=daily-question&envId=2023-10-08)
+
+[Find my Solution here](https://leetcode.com/problems/max-dot-product-of-two-subsequences/submissions/1070320241/?envType=daily-question&envId=2023-10-08)
