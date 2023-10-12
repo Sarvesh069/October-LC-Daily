@@ -46,3 +46,8 @@ Problem Name : [1458. Max Dot Product of Two Subsequences](https://leetcode.com/
 Problem Name : [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=daily-question&envId=2023-10-09)
 
 [Find my Solution here](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1071181642/?envType=daily-question&envId=2023-10-09)
+
+# Day12 - 12th Oct 2023
+Problem Name : [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/?envType=daily-question&envId=2023-10-12)
+
+[Find my Solution here](https://leetcode.com/problems/find-in-mountain-array/submissions/1073745674/?envType=daily-question&envId=2023-10-12)
