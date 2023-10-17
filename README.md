@@ -84,3 +84,8 @@ Problem Name : [1269. Number of Ways to Stay in the Same Place After Some Steps]
 Problem Name : [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/?envType=daily-question&envId=2023-10-16)
 
 [Find my Solution here](https://leetcode.com/problems/pascals-triangle-ii/submissions/1076953609/?envType=daily-question&envId=2023-10-16)
+
+# Day 17 - 17th Oct2 2023
+Problem Name : [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/?envType=daily-question&envId=2023-10-17)
+
+[Find my Solution here](https://leetcode.com/problems/validate-binary-tree-nodes/submissions/1077719244/?envType=daily-question&envId=2023-10-17)
